@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-plugin-seo",
+  "name": "@dendronhq/eleventy-plugin-seo",
   "version": "0.5.1",
   "description": "Eleventy plugin to generate meta tags for improved SEO.",
   "main": ".eleventy.js",
